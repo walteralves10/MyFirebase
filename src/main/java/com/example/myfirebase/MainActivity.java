@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     ListView listV_dados;
 
     FirebaseDatabase firebaseDatabase;
-    DatabaseReference databaseReference;
+    DatabaseReference databaseReference; //testes
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
